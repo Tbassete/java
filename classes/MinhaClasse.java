@@ -6,10 +6,10 @@ public class MinhaClasse{
         String primeiroNome = "Thiago";
         String segundoNome = "bassete";
 
-        boolean verdadeira = false;
+       // boolean verdadeira = false;
 
 
-        verdadeira = true;
+        //verdadeira = true;
 
         String nomeCompleto = nomeCompleto(primeiroNome, segundoNome);
 
